@@ -1,0 +1,182 @@
+[
+  {
+    "name": "help",
+    "color": "0e8a16",
+    "description": "Help needed.",
+    "aliases": [
+      "help wanted",
+      "Patch Welcome",
+      "status: help wanted",
+      "Status: PR Welcome",
+      "Status: Ready for PR"
+    ]
+  },
+  {
+    "name": "good first issue",
+    "color": "7057ff",
+    "description": "Good for newcomers.",
+    "aliases": [
+      "beginner-friendly",
+      "beginner",
+      "good for beginner",
+      "Good for beginners",
+      "good-starter-issue",
+      "starter-issue",
+      "starter",
+      "status: good starter issue"
+    ]
+  },
+  {
+    "name": "breaking",
+    "color": "d73a4a",
+    "description": "Introduces a breaking change.",
+    "aliases": [
+      "breaking change",
+      "breaking-change",
+      "Type: Breaking Change",
+      "type: breaking"
+    ]
+  },
+  {
+    "name": "priority: medium",
+    "color": "ffb8c6",
+    "aliases": ["priority: soon", "Priority: Medium"]
+  },
+  {
+    "name": "priority: high",
+    "color": "ff919d",
+    "aliases": ["priority: 2day", "Priority: High"]
+  },
+  {
+    "name": "priority: critical",
+    "color": "d73a4a",
+    "aliases": ["priority: now", "Priority: Critical"]
+  },
+  {
+    "name": "status: inactive",
+    "color": "e6e6e6",
+    "description": "No action needed or possible (fixed, duplicate, abandoned, out of product scope etc.).",
+    "aliases": [
+      "duplicate",
+      "invalid",
+      "stale",
+      "Status: Abandoned",
+      "status: duplicate",
+      "status: wontfix",
+      "wont-fix",
+      "wontfix"
+    ]
+  },
+  {
+    "name": "status: blocked",
+    "color": "d73a4a",
+    "description": "Something is blocking action.",
+    "aliases": ["blocked", "Status: Blocked", "status: blocked"]
+  },
+  {
+    "name": "status: pending",
+    "color": "fbca04",
+    "description": "A feature that needs dependencies merged, or a bug that needs further data.",
+    "aliases": [
+      "in progress",
+      "on hold",
+      "pending",
+      "Status: In Progress",
+      "Status: Review Needed",
+      "watchlist"
+    ]
+  },
+  {
+    "name": "status: approved",
+    "color": "37c85f",
+    "description": "Approved to proceed.",
+    "aliases": ["approved"]
+  },
+  {
+    "name": "type: bug",
+    "color": "d73a4a",
+    "description": "A fix on something that isn't working.",
+    "aliases": ["bug", "Type: Bug", "bugfix", "fix", "Type: Fix"]
+  },
+  {
+    "name": "type: improvement",
+    "color": "a2eeef",
+    "description": "Iterations on existing features or infrastructure, refactoring.",
+    "aliases": ["improvement", "optimization", "refactor", "Type: Refactoring"]
+  },
+  {
+    "name": "type: feature",
+    "color": "2677ff",
+    "description": "Brand new functionality, features, pages, workflows, endpoints, etc.",
+    "aliases": [
+      "addition",
+      "enhancement",
+      "feature",
+      "type: enhancement",
+      "Type: Feature"
+    ]
+  },
+  {
+    "name": "type: testing",
+    "color": "B8F7A4",
+    "description": "Related to testing.",
+    "aliases": ["test", "testing"]
+  },
+  {
+    "name": "type: security",
+    "color": "d73a4a",
+    "description": "Something is vulnerable or not secure.",
+    "aliases": ["security"]
+  },
+  {
+    "name": "type: chore",
+    "color": "FEF2C0",
+    "description": "Converting measurements, reorganizing folder structure, and other necessary, less impactful, tasks.",
+    "aliases": [
+      "chore",
+      "greenkeeper",
+      "legal",
+      "maintenance",
+      "Type: Maintenance",
+      "type: maintenance"
+    ]
+  },
+  {
+    "name": "type: dependencies",
+    "color": "FEF2C0",
+    "description": "Pull requests that update a dependency file.",
+    "aliases": ["dependabot", "dependencies", "dependency"]
+  },
+  {
+    "name": "type: docs",
+    "color": "FEF2C0",
+    "description": "Related to documentation and information.",
+    "aliases": [
+      "doc",
+      "docs",
+      "document",
+      "documentation",
+      "documents",
+      "Type: Documentation",
+      "type: documentation"
+    ]
+  },
+  {
+    "name": "type: discussion",
+    "color": "954FEB",
+    "description": "Questions, proposals and info that requires discussion.",
+    "aliases": [
+      "discussion",
+      "feedback",
+      "help wanted",
+      "idea",
+      "Idea",
+      "Proposal",
+      "proposal",
+      "question",
+      "type: design",
+      "Type: Question",
+      "type: question"
+    ]
+  }
+]
